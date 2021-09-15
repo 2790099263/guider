@@ -1,0 +1,120 @@
+body{
+    background-image: url(img/1.jpg);
+    background-size: cover;
+    /* background-position: center; */
+}
+a{
+    display: block;
+}
+.w{
+    width: 1200px;
+    margin: 0 auto;
+}
+.up{
+    height: 50px;
+    /* background-color: blueviolet; */
+}
+.up_lan1{
+    width: 200px;
+    height: 50px;
+    /* background-color: brown; */
+    float: left;
+}
+.up_lan2{
+    width: 800px;
+    height: 50px;
+    /* background-color: #fff; */
+    float: left;
+}
+.up_lan3{
+    width: 200px;
+    height: 50px;
+    /* background-color: chartreuse; */
+    float: left;
+}
+.banner{
+    margin-top: 200px;
+    width: 1200px;
+    height: 100px;
+    /* background-color: cornflowerblue; */
+    margin: 0 auto;
+}
+.banner_lef{
+    width: 100px;
+    height: 100px;
+    float: left;
+    /* background-color: brown; */
+}
+.banner_rhi{
+    width: 1100px;
+    height: 100px;
+    float: left;
+    /* background-color: blue; */
+}
+#img1{
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+}
+#search_is{
+    width: 800px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+    border-color: darkgrey;
+    float:left;
+}
+#buttom{
+    margin-left: 60px;
+    margin-top: 30px;
+    width: 60px;
+    height: 30px;
+    background-image: url(img/2.png);
+    float: left;
+}
+.wit2{
+    width: 1000px;
+    height: 600px;
+    margin: 0 auto;
+    /* background-color:cornflowerblue; */
+}
+.bre{
+    width: 1000px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 40px;
+    /* background-color: cyan; */
+}
+.spo{
+    width: 100px;
+    height: 100px;
+    margin-left: 70px;
+    /* background-color: darkgreen; */
+    float: left;
+}
+.link_img:hover{
+    width: 100px;
+    height: 110px;
+    border:1px solid red;
+    background-color: skyblue;
+}
+.link_img{
+    width: 100px;
+    height: 100px;
+}
+.imgimg:hover{
+    width: 90px;
+    height: 90px;
+    margin-left: 5px;
+}
+.imgimg{
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+}
+.font_class{
+    font-size: 20px;
+    font-style:inherit;
+    color: orangered;
+    margin-left: 10px;
+}
